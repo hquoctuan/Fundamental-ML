@@ -208,7 +208,7 @@ The evaluation process involves:
 
 ## Conclusion
 In this project, we evaluated the performance of several classification models on both original and PCA-transformed datasets.
-![background](./materials/result.jpg)
+![background](./materials/result.png)
 Best Model: XGBoost
 
 Accuracy: 44.98%
